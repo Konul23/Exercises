@@ -1,3 +1,4 @@
 # Exercises
 
-Konul open
+Konul exercise 1
+
